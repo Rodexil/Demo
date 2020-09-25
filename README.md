@@ -9,3 +9,5 @@ Sorry to my future readers.
 
 Subheader for nothing.<br>
 hope it works.
+## LOCAL DEVELOPMENT
+1.open index
